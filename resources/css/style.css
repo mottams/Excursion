@@ -2,8 +2,7 @@ html{
     background-color: black;
     font-family: Verdana, sans-serif;
 }
-h1,
-h2{
+h1, h2{
     color: white;
 }
 h1{
@@ -22,6 +21,10 @@ p{
     color: gray;
     font-size: 21px;   
 }
-.text-align-center{
+main, section{
     text-align: center;
 }
+footer p{
+    text-align: right;
+}
+
